@@ -6,6 +6,9 @@
 > <br>
 > <b>Copyright © 2024 CZ4001 AR Team 7</b><br>
 
+> [!WARNING]  
+> If there is error upon first opening of project, close the Unity Editor and start the project again might fix the error.
+
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg?style=for-the-badge)](http://www.wtfpl.net/about/)<t>
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
 
