@@ -59,7 +59,7 @@ This game is developed for AR Hololens platform using <b>Unity Version 2022.3.4f
 <b>Group Member：</b>
 <br>
 [Daniel](https://github.com/Dhyt1111)<br>
-[Shannen](https://github.com/kathy060415)<br>
+[Shannen](https://github.com/shannenlolol)<br>
 [Nazir](https://github.com/tabassumnazir)<br>
 [Ronan](https://github.com/deadinside1880)<br>
 [Zi Jian](https://github.com/zijian99)<br>
